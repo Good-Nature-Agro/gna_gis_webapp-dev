@@ -1,5 +1,10 @@
+unixodbc
+unixodbc-dev
+libodbc1
+libodbc2
+libodbcinst2
+libodbcinstq4-1
 gdal-bin
 libgdal-dev
 libspatialindex-dev
 python3-dev
-unixodbc-dev
