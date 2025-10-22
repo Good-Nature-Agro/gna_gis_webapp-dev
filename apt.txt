@@ -1,8 +1,8 @@
+libodbc2
+unixodbc-common
+libodbcinst2
 unixodbc
 unixodbc-dev
-libodbc1
-libodbc2
-libodbcinst2
 libodbcinstq4-1
 gdal-bin
 libgdal-dev
