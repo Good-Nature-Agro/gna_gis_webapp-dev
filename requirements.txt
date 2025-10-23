@@ -1,5 +1,5 @@
-# --find-links=https://girder.github.io/large_image_wheels GDAL
-pygdal
+ --find-links=https://girder.github.io/large_image_wheels GDAL==3.6.2
+pygdal==3.6.2.10
 earthengine-api==0.1.395
 geemap==0.32.1
 geopandas
@@ -12,3 +12,5 @@ streamlit
 streamlit-option-menu
 streamlit-folium
 pyarrow==16.0.0
+#GDAL==3.6.2
+
