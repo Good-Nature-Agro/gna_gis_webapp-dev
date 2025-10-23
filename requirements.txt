@@ -11,4 +11,4 @@ nbserverproxy
 streamlit
 streamlit-option-menu
 streamlit-folium
-# pyarrow==16.0.0
+pyarrow==16.0.0
